@@ -1,0 +1,1 @@
+console.log("Wellcome to the Regex problem using javascript");
